@@ -28,7 +28,7 @@
 	"homepage": "https://github.com/elangosundar/social-ai#readme",
 	"dependencies": {
 		"@actions/core": "1.2.4",
-		"@actions/github": "4.0.0",
+		"@actions/github": "6.0.0",
 		"jsdom": "16.4.0",
 		"node-encoder": "1.0.1",
 		"showdown": "1.9.1"
